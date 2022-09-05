@@ -7,12 +7,10 @@
   <version>1.0-SNAPSHOT</version>
   <name>MyWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
-<properties>
-		<sonar.host.url>http://54.151.243.26:9000/</sonar.host.url>
-		<sonar.login>squ_84feced683df66265d2b8548ef30528620f5e54d</sonar.login>
-		#<sonar.password>admin@12345</sonar.password> 
-
-	</properties>
+  <properties>
+      <sonar.host.url>http://54.151.243.26:9000/</sonar.host.url>
+      <sonar.login>squ_25b8fcd7d705b65b22d45a6e0b9fb6052d1e3e1a</sonar.login>
+  </properties>
 
   <dependencies>
     <dependency>
